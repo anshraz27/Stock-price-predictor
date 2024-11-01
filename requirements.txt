@@ -87,7 +87,7 @@ nbformat==5.9.2
 nest-asyncio==1.6.0
 notebook==7.1.0
 notebook_shim==0.2.4
-numpy==1.26.4
+numpy==1.23.0
 opt-einsum==3.3.0
 optree==0.11.0
 overrides==7.7.0
@@ -112,7 +112,6 @@ pyparsing==3.1.2
 python-dateutil==2.8.2
 python-json-logger==2.0.7
 pytz==2024.1
-pywin32==306
 pywinpty==2.0.12
 PyYAML==6.0.1
 pyzmq==25.1.2

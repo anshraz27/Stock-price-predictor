@@ -1,4 +1,4 @@
-git add README.md
+
 # Stock Price Predictor 
 
 A deep learning model that predicts stock prices based on historical data. This project uses a recurrent neural network (RNN) model, specifically Long Short-Term Memory (LSTM), to analyze and forecast stock price movements.
